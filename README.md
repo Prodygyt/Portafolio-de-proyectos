@@ -28,6 +28,7 @@ The project consisted in the development of web app and an IOS app where student
 <ul><li>Prevented direct URL navigation with guards as cookies.</li></ul>
 <ul><li>Implemented a role navigation system with different access levels with token decryption.</li></ul>
 
+![PrepanetIOS](https://github.com/Prodygyt/Portafolio-de-proyectos/assets/36963414/c0dca053-d657-440e-aa20-fdb601a1df64)
 
 ## [2. Self-Driving Car Simulation](https://github.com/5100-chap/Multiagentes)
 ### Technologies Used
@@ -41,6 +42,8 @@ The project consisted in the development of a 3D simulation of city traffic in U
 <ul><li>Developed a 3D simulation of a city using Unity.</li></ul>
 <ul><li>Created a Dijkstra algorithm to guide the cars to their destination with the help of waypoints distributed around the city.</li></ul>
 <ul><li>Implemented a reinforcement learning model to train the cars by establishing a hierarchy system for decision-making.</li></ul>
+
+![WhatsApp Image 2023-05-09 at 2 56 59 PM](https://github.com/Prodygyt/Portafolio-de-proyectos/assets/36963414/7e8ce428-4e98-46d0-a62a-41c37f026ed0)
 
 ## 3. Reverse Engineering Flipper Zero
 ### Technologies Used
