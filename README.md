@@ -60,7 +60,7 @@ The project consisted on building from scratch the internal hardware of a produc
 
 ![REFZ](https://github.com/Prodygyt/Portafolio-de-proyectos/assets/36963414/56f1b801-e74e-4201-b2a3-831d091276c6)
 
-DISCLAIMER: This image is not a product based on my work, and does not correspond exactly to what I created. The final product may differ from the image shown, and I cannot guarantee that it will be identical in every aspect. Please note that the image is provided for illustrative purposes only and should not be considered a representation of the final product.
+DISCLAIMER: This image is making reference to the product it was based from, and does not correspond exactly to what I created. The final product may differ from the image shown, and I cannot guarantee that it will be identical in every aspect. Please note that the image is provided for illustrative purposes only and should not be considered a representation of the final product.
 
 
 Thank you for taking the time to review my portfolio of projects. If you have any questions or feedback, please feel free to reach out to me.
