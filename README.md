@@ -43,7 +43,7 @@ The project consisted in the development of a 3D simulation of city traffic in U
 <ul><li>Created a Dijkstra algorithm to guide the cars to their destination with the help of waypoints distributed around the city.</li></ul>
 <ul><li>Implemented a reinforcement learning model to train the cars by establishing a hierarchy system for decision-making.</li></ul>
 
-![WhatsApp Image 2023-05-09 at 2 56 59 PM](https://github.com/Prodygyt/Portafolio-de-proyectos/assets/36963414/7e8ce428-4e98-46d0-a62a-41c37f026ed0)
+![CarSim](https://github.com/Prodygyt/Portafolio-de-proyectos/assets/36963414/7e8ce428-4e98-46d0-a62a-41c37f026ed0)
 
 ## 3. Reverse Engineering Flipper Zero
 ### Technologies Used
@@ -57,6 +57,10 @@ The project consisted on building from scratch the internal hardware of a produc
 <ul><li>Replicated the internal hardware of Flipper Zero by cutting and modifying generic circuit boards.</li></ul>
 <ul><li>Recreated the firmware of Flipper Zero by utilizing the company's Github repository.</li></ul>
 <ul><li>Improved the RFID clone module to encompass more types of credit cards and proximity cards.</li></ul>
+
+![REFZ](https://github.com/Prodygyt/Portafolio-de-proyectos/assets/36963414/56f1b801-e74e-4201-b2a3-831d091276c6)
+
+DISCLAIMER: This image is not a product based on my work, and does not correspond exactly to what I created. The final product may differ from the image shown, and I cannot guarantee that it will be identical in every aspect. Please note that the image is provided for illustrative purposes only and should not be considered a representation of the final product.
 
 
 Thank you for taking the time to review my portfolio of projects. If you have any questions or feedback, please feel free to reach out to me.
