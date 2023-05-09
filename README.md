@@ -5,12 +5,7 @@ urbinaaaron2001@gmail.com\
 8111261865\
 Monterrey, Nuevo Leon, Mexico
 
-## Education
-<ul><li>Computer Science Instituto Tecnologico y de Estudios Superiores de Monterrey 4.0 GPA</li></ul>
-<ul><li>Official (ISC)² Certified in Cybersecurity (CC)</li></ul>
-
-## Interests
-<ul><li>Aiming for Cybersecurity specialization.</li></ul>
+I have a strong educational background in Computer Science, achieving a 4.0 GPA from the Instituto Tecnologico y de Estudios Superiores de Monterrey. Furthermore, I am officially certified in Cybersecurity by (ISC)², which demonstrates my expertise in this field. My primary interest lies in Cybersecurity, and I aspire to specialize in this area. With my education and certification, I am confident in pursuing a successful career in Cybersecurity.
 
 # Portfolio of Projects
 This repository contains a collection of some of my most notable projects. Below are brief descriptions of each project.
